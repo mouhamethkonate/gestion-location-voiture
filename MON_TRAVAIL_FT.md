@@ -7,9 +7,7 @@
 - carloc/app/views/auth/login.php
 - carloc/app/views/auth/register.php
 
-## Note importante
-Ce ZIP contient UNIQUEMENT tes fichiers.
-Pour voir le projet complet, consu-lte le ZIP 00_COMPLET.zip
+
 
 ## Installation pour tester
 Copier tout le dossier carloc/ dans xampp/htdocs/

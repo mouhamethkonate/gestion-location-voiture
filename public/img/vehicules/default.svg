@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" fill="none">
+  <rect width="400" height="220" fill="#1e2d3d"/>
+  <rect x="60" y="100" width="280" height="70" rx="10" fill="#2a4060"/>
+  <rect x="90" y="65" width="200" height="65" rx="12" fill="#2a4060"/>
+  <rect x="100" y="72" width="85" height="50" rx="8" fill="#3a6090" opacity="0.7"/>
+  <rect x="200" y="72" width="80" height="50" rx="8" fill="#3a6090" opacity="0.7"/>
+  <circle cx="130" cy="175" r="25" fill="#111" stroke="#4a7ab0" stroke-width="4"/>
+  <circle cx="130" cy="175" r="13" fill="#2a4060"/>
+  <circle cx="270" cy="175" r="25" fill="#111" stroke="#4a7ab0" stroke-width="4"/>
+  <circle cx="270" cy="175" r="13" fill="#2a4060"/>
+  <rect x="60" y="130" width="30" height="18" rx="4" fill="#4a7ab0" opacity="0.6"/>
+  <rect x="310" y="130" width="30" height="18" rx="4" fill="#e85c30" opacity="0.6"/>
+  <text x="200" y="210" font-family="sans-serif" font-size="12" fill="#4a7ab0" text-anchor="middle">CarLoc</text>
+</svg>
